@@ -1,11 +1,11 @@
 {
   "name": "vitl",
-  "version": "0.1.0",
-  "main": "preset.ts",
+  "version": "1.0.0",
+  "preset": "preset.ts",
   "repository": "https://github.com/mgkprod/vitl",
   "author": "Simon Rubuano <sr@mgk.dev>",
   "license": "MIT",
   "devDependencies": {
-    "use-preset": "^0.2"
+    "apply": "^0.2.12"
   }
 }

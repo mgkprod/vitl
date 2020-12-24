@@ -1,7 +1,7 @@
 <p align="center">
     <br />
     <a href="https://usepreset.dev">
-        <img width="100" src="https://raw.githubusercontent.com/use-preset/cli/main/.github/assets/logo.svg" alt="Logo of the Preset tool">
+        <img width="100" src="https://raw.githubusercontent.com/preset/cli/main/.github/assets/logo.svg" alt="Logo of the Preset tool">
     </a>
     <br />
 </p>
@@ -10,12 +10,12 @@
 
 <p align="center">
     <br />
-    <a href="https://www.npmjs.com/package/use-preset">
-        <img alt="npm" src="https://img.shields.io/npm/v/use-preset?label=preset">
+    <a href="https://www.npmjs.com/package/apply">
+        <img alt="npm" src="https://img.shields.io/npm/v/apply?label=preset">
     </a>
     <br />
     <br />
-    <pre align="center">npx use-preset mgkprod/vitl</pre>
+    <pre align="center">npx apply mgkprod/vitl</pre>
     <br />
     <div align="center">
         <a href="https://github.com/mgkprod/vitl/blob/main/preset.ts">See what it does</a> - <a href="https://usepreset.dev">Preset documentation</a>
@@ -25,9 +25,9 @@
 
 ## About
 
-The [VITL](https://vitlstack.dev/) stack is the vital stack for your Laravel apps : Vue.js, Inertia.js, Tailwind and Laravel.
+The [VITL stack](https://vitlstack.dev/) is the vital stack for your Laravel apps : Vue.js, Inertia.js, Tailwind and Laravel.
 
-This preset scaffolds an VITL stack installation with with authentication to a fresh Laravel project.
+This preset scaffolds an VITL stack installation, with authentication, to a fresh Laravel project.
 
 ## Credits
 
